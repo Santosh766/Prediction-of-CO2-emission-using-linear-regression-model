@@ -1,2 +1,2 @@
-# My-fist-repository
-This is my first repository where I will be uploading my first project.
+# Simple Linear regression model
+This is a model for the prediction of Carbon dioxide emission by the various kinds of vehicles.
