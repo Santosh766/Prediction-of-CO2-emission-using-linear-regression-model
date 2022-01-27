@@ -12,3 +12,11 @@ Following steps is followed to build this model.
 8. Calculating the score of the model.
 
 # R2 value is: 0.71
+
+# Multliple plot in a one page.
+
+![image](https://user-images.githubusercontent.com/65527534/151395778-c220aa4a-37f3-447d-903e-d595302bcaca.png)
+
+CO2 Vs Engine Size
+
+![image](https://user-images.githubusercontent.com/65527534/151395827-5bd383a9-a8e9-4eb4-86a0-b6a9b762ca0d.png)
