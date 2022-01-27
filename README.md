@@ -1,5 +1,5 @@
 # Prediction of CO2 in gram/Kilometres
-This is a model for the prediction of Carbon dioxide emission by various model specific fuel consumption ratingf and estimated carbon dioxide emissions for new light duty vehicles for retail sale in Canada.
+This is a model for the prediction of Carbon dioxide emission by various model with specific fuel consumption rating and estimated carbon dioxide emissions for new light duty vehicles for retail sale in Canada.
 
 Following steps is followed to build this model.
 1. Importing the data into jupiter notebook
