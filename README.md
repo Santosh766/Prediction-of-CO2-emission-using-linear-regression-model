@@ -13,7 +13,7 @@ Following steps is followed to build this model.
 
 # R2 value is: 0.71
 
-# Multliple plot in a one page.
+# Visual representation of number of the factors on which the CO2 emission(in kg) depends upon like: Engine Size, Cylinder, Fuel Consumption etc.
 
 ![image](https://user-images.githubusercontent.com/65527534/151395778-c220aa4a-37f3-447d-903e-d595302bcaca.png)
 
